@@ -2,8 +2,8 @@
 
 Jokes app created using HTML, CSS and littlw bit of JavaScript.
 
-### [Live Site](https://weatherforecast-react.netlify.app/)
-
+### [Live Site](https://youwontlaugh.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4c7e9e59-74d6-4281-a4ae-e3e8410a0930/deploy-status)](https://app.netlify.com/sites/youwontlaugh/deploys)
 
 ![Screenshot](https://i.ibb.co/Ptw1PwL/dad-jokes.jpg)
 
